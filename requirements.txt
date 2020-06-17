@@ -1,8 +1,5 @@
-django-apscheduler==0.3.0
 celery==4.4.2
 django-celery==3.3.1
 eventlet==0.25.2
 django-celery-results==1.2.1
-#celery worker -A test01 -l info -P eventlet
 django-celery-beat==2.0.0
-#celery beat -A test01 -l info -S django
